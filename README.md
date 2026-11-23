@@ -9,4 +9,4 @@ Videojuego de plataformas 2D en el que una farera debe reactivar los faros de un
 
 
 
--Nivel 3- El faro: ultimo nivel con música épica y un jefe final.
+- Nivel 3 - El faro: ultimo nivel con música épica y un jefe final.
