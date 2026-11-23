@@ -5,3 +5,8 @@ Videojuego de plataformas 2D en el que una farera debe reactivar los faros de un
 ## Niveles
 
 - Nivel 1 – La playa: la farera salta entre rocas y esquiva a las criaturas de la niebla que salen del mar.
+
+
+
+
+-Nivel 3- El faro: ultimo nivel con música épica y un jefe final.
