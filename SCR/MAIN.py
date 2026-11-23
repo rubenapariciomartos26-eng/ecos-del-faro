@@ -1,0 +1,1 @@
+print("Ecos del Faro - versión 0.1")
